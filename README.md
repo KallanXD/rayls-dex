@@ -1,5 +1,3 @@
 # rayls-dex
 
-#enthaaunu monk bro ithu 
-
-import pyrogram
+# enthaaunu monk bro ithu 
